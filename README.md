@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmanCodes32
-- 👀 I’m interested in Flutter App Development
+- 👀 I’m interested in App Development
 - 🌱 I’m currently learning Flutter App Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on Instagram at - https://www.instagram.com/amancodes01/
